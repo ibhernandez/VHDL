@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "CL",
+					"strict" : false
+				},
+				{
+					"name" : "CS",
+					"strict" : false
+				},
+				{
+					"name" : "mux_disp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mux_disp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mux_disp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mux_disp[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mux_disp[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "nRst",
+					"strict" : false
+				},
+				{
+					"name" : "switch_p1",
+					"strict" : false
+				},
+				{
+					"name" : "SDAT",
+					"strict" : false
+				},
+				{
+					"name" : "switch_P2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

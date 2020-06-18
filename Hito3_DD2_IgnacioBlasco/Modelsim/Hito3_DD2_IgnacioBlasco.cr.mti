@@ -1,0 +1,108 @@
+C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:11 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity Timer
+-- Compiling architecture rtl of Timer
+End time: 22:02:11 on May 24,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:11 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MEDT
+-- Compiling architecture struct of MEDT
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity interfaz_spi
+-- Loading package NUMERIC_STD
+-- Loading entity Timer
+-- Loading entity dataToDisplay
+-- Loading entity presentacion_temperatura
+End time: 22:02:11 on May 24,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:11 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity spi_slave
+-- Compiling architecture sim of spi_slave
+End time: 22:02:11 on May 24,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:10 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity interfaz_spi
+-- Compiling architecture rtl of interfaz_spi
+End time: 22:02:10 on May 24,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:11 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity test_interfaz_spi
+-- Compiling architecture test of test_interfaz_spi
+-- Loading entity MEDT
+-- Loading entity spi_slave
+End time: 22:02:11 on May 24,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:10 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity dataToDisplay
+-- Compiling architecture rtl of dataToDisplay
+End time: 22:02:10 on May 24,2020, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd {1 {vcom -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 22:02:10 on May 24,2020
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity presentacion_temperatura
+-- Compiling architecture rtl of presentacion_temperatura
+End time: 22:02:11 on May 24,2020, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}}

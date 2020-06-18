@@ -1,0 +1,320 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/16.1
+Edatatodisplay
+Z0 w1590141777
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim
+Z6 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd
+Z7 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd
+l0
+L5
+V^lR0g1n6ldMfj[4l1a3_=1
+!s100 k;i=bIA71K`=]eT<WHDY53
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1590350530
+!i10b 1
+Z10 !s108 1590350530.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd|
+Z12 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/dataToDisplay.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 13 datatodisplay 0 22 ^lR0g1n6ldMfj[4l1a3_=1
+l30
+L18
+Va5^lUCc4z_];F?7<InSki0
+!s100 iL[NmKM3ITD?aEVEl8US:3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Einterfaz_spi
+Z16 w1589308358
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd
+Z18 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd
+l0
+L6
+VA1`m9J:hlRVFQQ^QG47^d2
+!s100 B0a0e37@;IVV>`h>IV[>d3
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd|
+Z20 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/interfaz_spi.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z21 DEx4 work 12 interfaz_spi 0 22 A1`m9J:hlRVFQQ^QG47^d2
+l32
+L18
+V78NcOW5Qa3Je7fe5nc[D^1
+!s100 ZoiQeMJ8j^hX18Z?2;4?G3
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Emedt
+Z22 w1590071697
+R3
+R4
+R5
+Z23 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd
+Z24 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd
+l0
+L5
+VAT]9neJJ9UI=D=0RdHc8:0
+!s100 7SeH@zV8^JzPT81Y=TW_V1
+R8
+32
+Z25 !s110 1590350531
+!i10b 1
+Z26 !s108 1590350531.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd|
+Z28 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/MEDT.vhd|
+!i113 1
+R13
+R14
+Astruct
+Z29 DEx4 work 24 presentacion_temperatura 0 22 K@G2IHh`Y@lNhzn;enP=z3
+R15
+Z30 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z31 DEx4 work 5 timer 0 22 >P[B45dhS^0496;AZ6G@62
+R1
+R2
+R21
+R3
+R4
+Z32 DEx4 work 4 medt 0 22 AT]9neJJ9UI=D=0RdHc8:0
+l29
+L20
+V3Ua9_oh7Of>Q]Eh;jLhDH2
+!s100 LfQTblO69kNEV>3^2gWEA3
+R8
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R13
+R14
+Epresentacion_temperatura
+Z33 w1590008019
+R1
+R2
+R3
+R4
+R5
+Z34 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd
+Z35 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd
+l0
+L5
+VK@G2IHh`Y@lNhzn;enP=z3
+!s100 DdQ3aabC@?]0VhWUdY3?m2
+R8
+32
+R25
+!i10b 1
+R10
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd|
+Z37 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/presentacion_temperatura.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+R29
+l36
+L22
+V9PCIe@kg:169SE[J767F[0
+!s100 [^::YODE>G=]fd26IdaF12
+R8
+32
+R25
+!i10b 1
+R10
+R36
+R37
+!i113 1
+R13
+R14
+Espi_slave
+Z38 w1588956892
+R1
+R2
+R3
+R4
+R5
+Z39 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd
+Z40 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd
+l0
+L6
+V]M3oSWd^MXPjDHAM9SWW]2
+!s100 Afz<`zAmTchZL[2XCKLZj0
+R8
+32
+R25
+!i10b 1
+R26
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd|
+Z42 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/spi_slave.vhd|
+!i113 1
+R13
+R14
+Asim
+R1
+R2
+R3
+R4
+Z43 DEx4 work 9 spi_slave 0 22 ]M3oSWd^MXPjDHAM9SWW]2
+l17
+L15
+VF1FP;maYRh]BW<meW4IZ71
+!s100 8M]HC<FFd[NdE[eRR]G:d2
+R8
+32
+R25
+!i10b 1
+R26
+R41
+R42
+!i113 1
+R13
+R14
+Etest_interfaz_spi
+Z44 w1590071506
+R30
+R1
+R2
+R3
+R4
+R5
+Z45 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd
+Z46 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd
+l0
+L13
+Vc9XQ=0mEnLU;]21;DS:_>0
+!s100 ;g=B4EzjY]<g2aXGW1KgF1
+R8
+32
+R25
+!i10b 1
+R26
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd|
+Z48 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/Modelsim/test_interfaz_spi.vhd|
+!i113 1
+R13
+R14
+Atest
+R43
+R32
+R30
+R1
+R2
+R3
+R4
+DEx4 work 17 test_interfaz_spi 0 22 c9XQ=0mEnLU;]21;DS:_>0
+l28
+L16
+V2=3ligk85j^Q4>a49j9?S1
+!s100 ??LcIOW]L<khHZN7kbm2N1
+R8
+32
+R25
+!i10b 1
+R26
+R47
+R48
+!i113 1
+R13
+R14
+Etimer
+Z49 w1590141783
+R30
+R1
+R2
+R3
+R4
+R5
+Z50 8C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd
+Z51 FC:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd
+l0
+L6
+V>P[B45dhS^0496;AZ6G@62
+!s100 XASIQhSW6cYjmf^`hL^^X1
+R8
+32
+R25
+!i10b 1
+R26
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd|
+Z53 !s107 C:/Users/nache/OneDrive/Escritorio/Hito3_DD2_IgnacioBlasco/hdl/Timer.vhd|
+!i113 1
+R13
+R14
+Artl
+R30
+R1
+R2
+R3
+R4
+R31
+l33
+L15
+V960OdS6D9=HlT>cVF?KgO1
+!s100 e`;Ro3DXMPO?]L8B`FzT?2
+R8
+32
+R25
+!i10b 1
+R26
+R52
+R53
+!i113 1
+R13
+R14
